@@ -18,61 +18,61 @@ while(mes != 2 and ((mes%2 == 0 and (mes < 8)) or (mes % 2 == 1 and (mes > 8))) 
 #Obtencion del signo zodiacal
 if (mes == 1):
     if (dia <= 20):
-        print("Tu signo zodiacal es:\n Capricornio")
+        print("Tu signo zodiacal es:\n capricornio")
     else:
-        print("Tu signo zodiacal es:\n Acuario")
+        print("Tu signo zodiacal es:\n acuario")
 elif (mes == 2):
     if (dia <= 19):
-        print("Tu signo zodiacal es:\n Acuario")
+        print("Tu signo zodiacal es:\n acuario")
     else:
-        print("Tu signo zodiacal es:\n Piscis")
+        print("Tu signo zodiacal es:\n piscis")
 elif (mes == 3):
     if (dia <= 20):
-        print("Tu signo zodiacal es:\n Piscis")
+        print("Tu signo zodiacal es:\n piscis")
     else:
-        print("Tu signo zodiacal es:\n Aries")
+        print("Tu signo zodiacal es:\n aries")
 elif (mes == 4):
     if (dia <= 20):
-        print("Tu signo zodiacal es:\n Aries")
+        print("Tu signo zodiacal es:\n aries")
     else:
-        print("Tu signo zodiacal es:\n Tauro")
+        print("Tu signo zodiacal es:\n tauro")
 elif (mes == 5):
     if (dia <= 20):
-        print("Tu signo zodiacal es:\n Tauro")
+        print("Tu signo zodiacal es:\n tauro")
     else:
-        print("Tu signo zodiacal es:\n Geminis")
+        print("Tu signo zodiacal es:\n geminis")
 elif (mes == 6):
     if (dia <= 20):
-        print("Tu signo zodiacal es:\n Geminis")
+        print("Tu signo zodiacal es:\n geminis")
     else:
-        print("Tu signo zodiacal es:\n Cancer")
+        print("Tu signo zodiacal es:\n cancer")
 elif (mes == 7):
     if (dia <= 22):
-        print("Tu signo zodiacal es:\n Cancer")
+        print("Tu signo zodiacal es:\n cancer")
     else:
-        print("Tu signo zodiacal es:\n Leo")
+        print("Tu signo zodiacal es:\n leo")
 elif (mes == 8):
     if (dia <= 22):
-        print("Tu signo zodiacal es:\n Leo")
+        print("Tu signo zodiacal es:\n leo")
     else:
-        print("Tu signo zodiacal es:\n Virgo")
+        print("Tu signo zodiacal es:\n virgo")
 elif (mes == 9):
     if (dia <= 22):
-        print("Tu signo zodiacal es:\n Virgo")
+        print("Tu signo zodiacal es:\n virgo")
     else:
-        print("Tu signo zodiacal es:\n Libra")
+        print("Tu signo zodiacal es:\n libra")
 elif (mes == 10):
     if (dia <= 20):
-        print("Tu signo zodiacal es:\n Libra")
+        print("Tu signo zodiacal es:\n libra")
     else:
-        print("Tu signo zodiacal es:\n Escorpion")
+        print("Tu signo zodiacal es:\n escorpion")
 elif (mes == 11):
     if (dia <= 21):
-        print("Tu signo zodiacal es:\n Escorpion")
+        print("Tu signo zodiacal es:\n escorpion")
     else:
-        print("Tu signo zodiacal es:\n Sagitario")
+        print("Tu signo zodiacal es:\n sagitario")
 elif (mes == 12):
     if (dia <= 21):
-        print("Tu signo zodiacal es:\n Sagitario")
+        print("Tu signo zodiacal es:\n sagitario")
     else:
-        print("Tu signo zodiacal es:\n Capricornio")
+        print("Tu signo zodiacal es:\n capricornio")
